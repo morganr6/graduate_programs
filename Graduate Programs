@@ -1,0 +1,321 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>GRADUATE PROGRAMS</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<a href="index.html" class="logo"><strong>GRADUATE PROGRAMS</strong> <span>by MORGAN RE</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">SCHOOLS</a></li>
+							<li><a href="vtcode.html">PROGRAMS</a></li>
+							<li><a href="generic.html">REQUIREMENTS</a></li>
+							<li><a href="elements.html">DETAILS</a></li>
+						</ul>
+						<ul class="actions stacked">
+							<li><a href="#" class="button primary fit">Get Started</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<header class="major">
+								<h1>Explore The Different Schools and Their Graduate Programs...</h1>
+							</header>
+							<div class="content">
+								<p>Learn more about the different Master's and Doctorate programs available, delve into program specifics and requriements, and find out what is needed to apply. </p>
+								<ul class="actions">
+									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one" class="tiles">
+								<article>
+									<span class="image">
+										<img src="vt.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Virginia Tech</a></h3>
+										<p>blacksburg, va</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="umd.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">University of Maryland</a></h3>
+										<p>college park, md</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="ut.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">University of Tennessee</a></h3>
+										<p>knoxville, tn</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="gmu.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">George Mason University</a></h3>
+										<p>Fairfax, VA</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="cnu.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Christopher Newport University</a></h3>
+										<p>Hampton, VA</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="wvu.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">University of West Virginia</a></h3>
+										<p>Morgantown, WV</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="und.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">University of North Dakota </a></h3>
+										<p>Grand Forks, ND</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="uva.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">University of Virginia</a></h3>
+										<p>Charlottesville, VA</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="cu.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Clemson University</a></h3>
+										<p>Clemson, SC</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="ncs.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">North Carolina State University</a></h3>
+										<p>Raleigh, NC</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="duke.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Duke University</a></h3>
+										<p>Durham, NC</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="yale.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Yale University</a></h3>
+										<p>Newhaven, CT</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="hu.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Harvard University</a></h3>
+										<p>Cambridge, MA</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="pu.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Princeton University</a></h3>
+										<p>Princeton, NJ</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="mit.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Massachusettes Institute of Technology</a></h3>
+										<p>Cambridge, MA</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="uta.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">University of Texas, Austin</a></h3>
+										<p>Austin, TX</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="brown.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Brown University</a></h3>
+										<p>Providence, RI</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="uwm.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">University of Wisconsin - Madison</a></h3>
+										<p>Madison, WI</p>
+									</header>
+								</article>
+
+								<article>
+									<span class="image">
+										<img src="jh.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vtcode.html" class="link">Johns Hopkins University</a></h3>
+										<p>Baltimore, MD</p>
+									</header>
+								</article>
+
+							</section>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Clear" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">morganR6@vt.edu</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(540) 550 7069 </span>
+									</div>
+								</section>
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+
+								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+
+
+	</body>
+</html>
